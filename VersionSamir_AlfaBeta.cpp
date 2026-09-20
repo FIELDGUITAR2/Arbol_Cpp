@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 #include <stdlib.h>
 #include <climits>
 #include <algorithm>
@@ -26,7 +25,6 @@ int profundidadArbol = 0;
 int main()
 {
     menu();
-    getch();
     return 0;
 }
 
