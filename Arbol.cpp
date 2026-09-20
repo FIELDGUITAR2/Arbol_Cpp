@@ -8,6 +8,8 @@ struct nodo{
     nodo *der;
 };
 
+
+
 int main()
 {
 	
